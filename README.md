@@ -1,6 +1,6 @@
 # learn-terraform--modules-with-s3-dynamodb
 how to deploy a scalable web application on AWS with structured terraform
-
+```bash
 terraform-aws-structure-lab/
 ├── modules/
 │   ├── vpc/
@@ -28,4 +28,4 @@ terraform-aws-structure-lab/
 │       └── outputs.tf
 ├── provider.tf
 ├── README.md
-
+```
